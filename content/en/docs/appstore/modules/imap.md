@@ -42,4 +42,4 @@ To subscribe to incoming email from an account, call the **SubscribeToIncomingEm
 
 To unsubscribe from incoming email from an account, call the **UnsubscribeFormIncomingEmail** Java action.
 
-Set the **EncryptionKey** constant for email account passowrd encryption.
+Set the **EncryptionKey** constant for email account passowrd encryption.   
